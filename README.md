@@ -59,11 +59,6 @@ Git • GitHub • Streamlit • Jupyter Notebook • VS Code
 Based in **London, UK**, I am actively looking for **Graduate / Entry-Level opportunities in AI Engineering, Machine Learning, Python Development, Generative AI, and Software Engineering** across the UK.
 
 
-## 📊 GitHub Stats
-
-![Dharmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmiksoni1008&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmiksoni1008&layout=compact&theme=default&hide_border=true)
 
 ## 📫 Connect With Me
 
