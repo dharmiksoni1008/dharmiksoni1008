@@ -8,20 +8,25 @@ My interests include **Machine Learning, Generative AI, RAG, AI Agents, Explaina
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Career Copilot
-AI-powered career assistant for job matching, skill-gap analysis, tailored resumes, cover letters, and application tracking.
+### 🤖 [AI Career Copilot](https://github.com/dharmiksoni1008/ai-career-copilot)
 
-### 🧠 Agentic RAG AI Assistant
-Agentic RAG system for intelligent PDF and web-based question answering using LLMs, LangGraph, FastAPI, Streamlit, and Chroma.
+AI-powered career copilot for intelligent job search, resume matching, skill-gap analysis, tailored resume & cover letter generation, and application tracking.
 
-### 🛡️ Sentinel Fraud Detection
-Real-time fraud detection system using ensemble machine learning, FastAPI, SHAP, MLflow, Docker, and Streamlit.
+### 🧠 [Agentic RAG AI Assistant](https://github.com/dharmiksoni1008/agentic-rag-ai-assistant)
 
-### ⚙️ MLOps Production Pipeline
-Production-focused ML pipeline demonstrating model deployment, monitoring, CI/CD, Docker, Kubernetes, MLflow, Prometheus, and Grafana.
+AI-powered Agentic RAG assistant for intelligent PDF and web-based question answering.
 
-### 🎓 Student Performance XAI
-Explainable AI and machine learning project for student performance prediction with model explainability and fairness analysis.
+### 🛡️ [Sentinel Fraud Detection](https://github.com/dharmiksoni1008/sentinel-fraud-detection)
+
+Real-time AI fraud detection system using machine learning, FastAPI, SHAP, MLflow, Docker, and Streamlit.
+
+### ⚙️ [MLOps Production Pipeline](https://github.com/dharmiksoni1008/mlops-production-pipeline)
+
+Production-focused MLOps pipeline for machine learning deployment, monitoring, CI/CD, Docker, Kubernetes, MLflow, Prometheus, and Grafana.
+
+### 🎓 [Student Performance XAI](https://github.com/dharmiksoni1008/student-performance-xai)
+
+Explainable AI and Machine Learning project for student performance prediction.
 
 ## 🛠️ Technical Skills
 
