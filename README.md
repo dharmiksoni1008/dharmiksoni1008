@@ -26,31 +26,28 @@ Explainable AI and machine learning project for student performance prediction w
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-Python • Java • C • C++ • JavaScript • PHP • Dart
-
-### 🌐 Web & Frontend Development
-HTML5 • CSS3 • JavaScript • Angular • Next.js • Tailwind CSS • Flutter
+Python • Java • C++ • JavaScript • PHP
 
 ### 🤖 AI & Machine Learning
-Machine Learning • Deep Learning • Scikit-learn • XGBoost • Pandas • NumPy • Matplotlib • Feature Engineering • Model Evaluation • Explainable AI (XAI)
+Machine Learning • Scikit-learn • XGBoost • Pandas • NumPy • Feature Engineering • Model Evaluation • Explainable AI (XAI)
 
 ### 🧠 Generative AI & LLMs
-Generative AI • Large Language Models (LLMs) • RAG • LangGraph • AI Agents • Prompt Engineering • Embeddings • Vector Databases
+Generative AI • Large Language Models (LLMs) • RAG • AI Agents • Prompt Engineering • Embeddings • Vector Databases
 
-### ⚡ Backend & API Development
-FastAPI • REST APIs • Node.js • PHP • API Integration
+### ⚡ Backend & APIs
+FastAPI • REST APIs • API Integration
 
 ### 🗄️ Databases
-SQL • MySQL • MongoDB • PostgreSQL • SQLite • DBMS
+SQL • MySQL • MongoDB • PostgreSQL • SQLite
 
 ### ☁️ MLOps & Cloud
 Docker • Kubernetes • MLflow • GitHub Actions • CI/CD • Prometheus • Grafana
 
-### 🔧 Developer Tools
-Git • GitHub • Streamlit • Jupyter Notebook • VS Code • NPM • XAMPP
+### 🌐 Web Development
+HTML5 • CSS3 • Angular
 
-### 📊 Data & Analytics
-Data Analysis • Exploratory Data Analysis (EDA) • Data Preprocessing • Data Visualization • Statistical Analysis
+### 🔧 Developer Tools
+Git • GitHub • Streamlit • Jupyter Notebook • VS Code
 
 ## 🎯 Career Goal
 
